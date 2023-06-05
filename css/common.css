@@ -38,3 +38,13 @@ ul {
 #validation-input.invalid {
   border-color: #f44336;
 }
+
+.products-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.product-item {
+  width: 400px;
+}
